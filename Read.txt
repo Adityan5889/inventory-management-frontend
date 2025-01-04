@@ -1,0 +1,2 @@
+Run application use - go live in vs code Or use this command in terminal- python -m http.server 8000
+You can place these files in your project's frontend folder and connect them to your backend running on http://localhost:8080
